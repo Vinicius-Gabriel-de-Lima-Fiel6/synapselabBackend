@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+supabase
+chempy
+groq
+pydantic
