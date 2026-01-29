@@ -5,3 +5,4 @@ supabase
 chempy
 groq
 pydantic
+bcrypt
